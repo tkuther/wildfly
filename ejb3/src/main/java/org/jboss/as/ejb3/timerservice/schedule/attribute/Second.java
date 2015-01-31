@@ -21,7 +21,6 @@
  */
 package org.jboss.as.ejb3.timerservice.schedule.attribute;
 
-import org.jboss.as.ejb3.logging.EjbLogger;
 import org.jboss.as.ejb3.timerservice.schedule.value.ScheduleExpressionType;
 
 
