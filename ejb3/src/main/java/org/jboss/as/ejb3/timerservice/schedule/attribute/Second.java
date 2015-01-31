@@ -23,6 +23,8 @@ package org.jboss.as.ejb3.timerservice.schedule.attribute;
 
 import org.jboss.as.ejb3.timerservice.schedule.value.ScheduleExpressionType;
 
+import static org.jboss.as.ejb3.EjbMessages.MESSAGES;
+
 
 /**
  * Represents the value of a second constructed out of a {@link javax.ejb.ScheduleExpression#getSecond()}
